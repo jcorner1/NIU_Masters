@@ -2,6 +2,8 @@
 
 ## Methods
 
+### Physics Schemes
+
 ### Namelists
 The sections provides the namelist.iput to show the various settings used in the project:
 
