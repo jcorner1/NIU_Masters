@@ -17,3 +17,7 @@ This outline is not meant to go into great detail on how to run the WRF, but rat
 * <a href="https://github.com/jcorner1/NIU_Masters/blob/main/NWP/project/Files/wrf.job">WRF.exe</a> - Running the WRF
 
 Finally, an outline with a bit more detail can be found <a href="https://docs.google.com/document/d/1LsTXlVE2OE-Uov-DA3PnJBMGP3Ji-BraFDcpkfGKr4k/edit?usp=drive_link">here</a> and the diagram below should hopefully provide a basic visual of the process. 
+<p>
+    <img src="https://github.com/jcorner1/NIU_Masters/blob/main/NWP/project/Plots/WRF-algorithm-workflow-diagram.png" width="617" height="347" />
+</p>
+
