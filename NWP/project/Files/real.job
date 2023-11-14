@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -N WRF_REAL
+#PBS -A climlab
+#PBS -l nodes=1:ppn=4
+#PBS -l walltime=00:30:00
+
+module load wrf/wrf-4.3.3
+ulimit -s unlimited
+cd /home/z1946889/project/run
+
+mpirun -n 4 real.exe
